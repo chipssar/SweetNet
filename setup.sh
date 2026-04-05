@@ -1,6 +1,6 @@
 #!/bin/bash
 # ============================================================
-# setup.sh — Script de automatización del Honeypot Portátil
+# setup.sh — Script de automatización del SweetNet
 # ============================================================
 # ¿Para qué sirve?
 #   Instala y configura todo el sistema con un solo comando.
@@ -28,8 +28,8 @@ print_step()   { echo -e "\n${BLD}[$1]${RST} $2"; }
 # ── Banner ───────────────────────────────────────────────────
 echo -e "${CYN}"
 echo "  ┌─────────────────────────────────────────┐"
-echo "  │   HONEYPOT PORTÁTIL - Setup Script       │"
-echo "  │   Raspberry Pi / Debian / Ubuntu         │"
+echo "  │   SweetNet - Setup Script               │"
+echo "  │   Raspberry Pi / Debian / Ubuntu        │"
 echo "  └─────────────────────────────────────────┘"
 echo -e "${RST}"
 
