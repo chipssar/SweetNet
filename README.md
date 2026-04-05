@@ -1,4 +1,4 @@
-# 🍯 Honeypot Portátil con ML — Raspberry Pi Edition
+# 🍯 SweetNet - Honeypot Portátil
 
 > Sistema completo de detección y análisis de ataques en redes abiertas,  
 > con Machine Learning, alertas en tiempo real y dashboard web.
