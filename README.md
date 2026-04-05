@@ -18,56 +18,8 @@
 
 ---
 
-## 1. Arquitectura del sistema <a name="arquitectura"></a>
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                     HONEYPOT PORTÁTIL                           │
-│                                                                  │
-│  ┌──────────┐  ┌──────────┐  ┌──────────┐                      │
-│  │  COWRIE  │  │ DIONAEA  │  │ SURICATA │  ← Honeypots / IDS   │
-│  │SSH/Telnet│  │ Malware  │  │   IDS    │                      │
-│  └────┬─────┘  └────┬─────┘  └────┬─────┘                      │
-│       │              │              │                            │
-│       └──────────────┴──────────────┘                           │
-│                       │                                          │
-│              ┌─────────▼──────────┐                             │
-│              │  log_collector.py  │  ← Normalización            │
-│              │  Normaliza y       │                             │
-│              │  unifica eventos   │                             │
-│              └─────────┬──────────┘                             │
-│                        │                                         │
-│              ┌─────────▼──────────┐                             │
-│              │    analyzer.py     │  ← Análisis heurístico      │
-│              │  PatternDetector   │                             │
-│              │  Brute Force       │                             │
-│              │  Port Scan         │                             │
-│              │  Malware           │                             │
-│              └──────┬──────┬──────┘                             │
-│                     │      │                                     │
-│            ┌────────▼┐   ┌─▼──────────────┐                    │
-│            │ml_model │   │ alert_manager  │  ← Alertas         │
-│            │Random   │   │ Consola/Email  │                    │
-│            │Forest   │   └────────────────┘                    │
-│            │Isolation│                                           │
-│            │Forest   │                                           │
-│            └────┬────┘                                           │
-│                 │                                                 │
-│    ┌────────────▼──────────────────────┐                        │
-│    │       dashboard_integration       │  ← Exportación         │
-│    │  Elasticsearch │ Prometheus       │                        │
-│    │  API local REST                   │                        │
-│    └───────────────────────────────────┘                        │
-│                 │                                                 │
-│    ┌────────────▼──────────────────────┐                        │
-│    │     dashboard/index.html          │  ← Visualización       │
-│    │  Gráficas en tiempo real          │                        │
-│    │  Top atacantes / tipos de ataque  │                        │
-│    └───────────────────────────────────┘                        │
-└─────────────────────────────────────────────────────────────────┘
-```
-
-### Tecnologías usadas
+## 1. Tecnologías usadas </a>
 
 | Componente         | Tecnología                              | Propósito                          |
 |--------------------|-----------------------------------------|------------------------------------|
