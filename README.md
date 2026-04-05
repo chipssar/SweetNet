@@ -133,7 +133,7 @@ honeypot-project/
 ### Opción A — Script automático (recomendado para Raspberry Pi)
 
 ```bash
-git clone
+git clone https://github.com/chipssar/SweetNet.git
 cd honeypot-project
 chmod +x setup.sh
 ./setup.sh
@@ -143,7 +143,7 @@ chmod +x setup.sh
 
 ```bash
 # 1. Clonar el proyecto
-git clone 
+git clone https://github.com/chipssar/SweetNet.git
 cd honeypot-project
 
 # 2. Crear entorno virtual
@@ -162,7 +162,7 @@ mkdir -p data logs/{cowrie,dionaea,suricata} ml_model
 ```bash
 # ── Cowrie (SSH honeypot) ────────────────────────────────────
 sudo apt-get install -y git python3-virtualenv libssl-dev libffi-dev
-git clone  /opt/cowrie
+git clone https://github.com/cowrie/cowrie /opt/cowrie
 cd /opt/cowrie
 python3 -m venv cowrie-env
 source cowrie-env/bin/activate
@@ -289,13 +289,6 @@ has_malware, payload_size, source_num
 - No necesita etiquetas (no supervisado)
 - Detecta eventos rarísimos/inusuales
 - Equivale a "esto no parece nada que hayamos visto antes"
-
-**Métricas obtenidas en pruebas:**
-```
-Accuracy Random Forest:    ~62% (con datos simulados)
-Anomalías detectadas:      ~10% del dataset
-Ciclo de análisis:         < 0.5s (Raspberry Pi 4)
-```
 
 ### `alert_manager.py` — Alertas
 
@@ -486,6 +479,9 @@ dashboard/index.html
 ---
 
 ## Créditos
+
+- Russel Batista
+- Alina Almonte
 
 Herramientas de terceros usadas en despliegue real:
 - [Cowrie](https://github.com/cowrie/cowrie) — SSH/Telnet Honeypot
