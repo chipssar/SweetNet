@@ -1,0 +1,50 @@
+# ============================================================
+# config/config.yaml
+# Configuración central del sistema honeypot
+# ============================================================
+
+# ── Rutas de logs de los honeypots ──────────────────────────
+logs:
+  cowrie:   "logs/cowrie/cowrie.json"         # SSH/Telnet honeypot
+  dionaea:  "logs/dionaea/dionaea.json"        # Malware honeypot
+  suricata: "logs/suricata/fast.log"           # IDS/IPS
+
+# ── Base de datos JSON local (salida normalizada) ────────────
+output:
+  normalized_json: "data/events_normalized.json"
+  ml_results:      "data/ml_results.json"
+
+# ── Modelo de Machine Learning ───────────────────────────────
+ml:
+  model_path:    "ml_model/rf_model.pkl"
+  scaler_path:   "ml_model/scaler.pkl"
+  retrain_every: 500                            # eventos acumulados
+
+# ── Umbrales de detección (motor de análisis) ────────────────
+thresholds:
+  brute_force_attempts: 5                       # intentos en ventana de tiempo
+  port_scan_ports:      20                      # puertos distintos desde misma IP
+  time_window_seconds:  60                      # ventana temporal para conteo
+
+# ── Dashboard web local ──────────────────────────────────────
+dashboard:
+  host: "0.0.0.0"
+  port: 5000
+  refresh_interval: 5                           # segundos
+
+# ── Alertas ──────────────────────────────────────────────────
+alerts:
+  console: true
+  email:   false
+  smtp_server:   "smtp.gmail.com"
+  smtp_port:     587
+  smtp_user:     "tu_email@gmail.com"
+  smtp_password: "tu_app_password"
+  recipient:     "admin@example.com"
+
+# ── Elasticsearch (opcional, comentar si no se usa) ──────────
+elasticsearch:
+  enabled: false
+  host:    "localhost"
+  port:    9200
+  index:   "honeypot-events"

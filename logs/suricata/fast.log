@@ -1,0 +1,220 @@
+04/05/2026-14:30:52.066 [**] [1:2004875:2] ET SCAN Nmap Scripting Engine [**] [Classification: Attempted Information Leak] [Priority: 1] {UDP} 172.16.0.200:1097 -> 10.0.0.1:22
+04/05/2026-14:30:52.066 [**] [1:2009552:2] ET MALWARE Mirai Botnet [**] [Classification: A Network Trojan was Detected] [Priority: 3] {ICMP} 198.20.69.74:48400 -> 10.0.0.1:995
+04/05/2026-14:30:52.066 [**] [1:2009452:2] ET DOS HTTP Flood [**] [Classification: Denial of Service Attack] [Priority: 1] {TCP} 10.0.0.55:61296 -> 10.0.0.1:139
+04/05/2026-14:30:52.066 [**] [1:2003449:2] ET BRUTE SSH Brute Force [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 3] {ICMP} 45.33.32.156:15357 -> 10.0.0.1:21
+04/05/2026-14:30:52.066 [**] [1:2003288:2] ET SCAN Nmap Scripting Engine [**] [Classification: Attempted Information Leak] [Priority: 3] {ICMP} 91.238.181.34:60856 -> 10.0.0.1:135
+04/05/2026-14:30:52.066 [**] [1:2002664:2] ET SCAN Nmap Scripting Engine [**] [Classification: Attempted Information Leak] [Priority: 1] {ICMP} 198.20.69.74:8220 -> 10.0.0.1:110
+04/05/2026-14:30:52.066 [**] [1:2008432:2] ET BRUTE SSH Brute Force [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 3] {TCP} 45.155.205.225:25754 -> 10.0.0.1:3389
+04/05/2026-14:30:52.066 [**] [1:2001561:2] ET MALWARE Mirai Botnet [**] [Classification: A Network Trojan was Detected] [Priority: 1] {UDP} 103.216.220.11:9704 -> 10.0.0.1:3306
+04/05/2026-14:30:52.066 [**] [1:2008096:2] ET SCAN Nmap Scripting Engine [**] [Classification: Attempted Information Leak] [Priority: 3] {ICMP} 185.220.101.5:9033 -> 10.0.0.1:23
+04/05/2026-14:30:52.066 [**] [1:2006397:2] ET DOS HTTP Flood [**] [Classification: Denial of Service Attack] [Priority: 1] {ICMP} 172.16.0.200:14090 -> 10.0.0.1:80
+04/05/2026-14:30:52.066 [**] [1:2001859:2] ET EXPLOIT SMBv1 EternalBlue [**] [Classification: Attempted User Privilege Gain] [Priority: 2] {TCP} 172.16.0.200:3890 -> 10.0.0.1:1521
+04/05/2026-14:30:52.066 [**] [1:2007673:2] ET SCAN Nmap Scripting Engine [**] [Classification: Attempted Information Leak] [Priority: 3] {ICMP} 192.168.1.100:18141 -> 10.0.0.1:3306
+04/05/2026-14:30:52.066 [**] [1:2002271:2] ET EXPLOIT SMBv1 EternalBlue [**] [Classification: Attempted User Privilege Gain] [Priority: 2] {TCP} 45.155.205.225:32814 -> 10.0.0.1:1521
+04/05/2026-14:30:52.066 [**] [1:2004425:2] ET INFO Tor Exit Node [**] [Classification: Potential Corporate Privacy Violation] [Priority: 2] {TCP} 103.216.220.11:54594 -> 10.0.0.1:3389
+04/05/2026-14:30:52.066 [**] [1:2002634:2] ET EXPLOIT SMBv1 EternalBlue [**] [Classification: Attempted User Privilege Gain] [Priority: 3] {ICMP} 103.216.220.11:45977 -> 10.0.0.1:53
+04/05/2026-14:30:52.066 [**] [1:2003411:2] ET INFO Tor Exit Node [**] [Classification: Potential Corporate Privacy Violation] [Priority: 2] {TCP} 185.156.73.55:33454 -> 10.0.0.1:139
+04/05/2026-14:30:52.066 [**] [1:2004478:2] ET MALWARE Mirai Botnet [**] [Classification: A Network Trojan was Detected] [Priority: 1] {UDP} 45.155.205.225:52396 -> 10.0.0.1:80
+04/05/2026-14:30:52.066 [**] [1:2003881:2] ET INFO Tor Exit Node [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {UDP} 45.155.205.225:45828 -> 10.0.0.1:25
+04/05/2026-14:30:52.066 [**] [1:2002555:2] ET EXPLOIT SMBv1 EternalBlue [**] [Classification: Attempted User Privilege Gain] [Priority: 1] {UDP} 89.248.167.131:59077 -> 10.0.0.1:1521
+04/05/2026-14:30:52.066 [**] [1:2004132:2] ET MALWARE Mirai Botnet [**] [Classification: A Network Trojan was Detected] [Priority: 1] {UDP} 172.16.0.200:53455 -> 10.0.0.1:22
+04/05/2026-14:30:52.066 [**] [1:2003721:2] ET INFO Tor Exit Node [**] [Classification: Potential Corporate Privacy Violation] [Priority: 3] {TCP} 45.33.32.156:2197 -> 10.0.0.1:110
+04/05/2026-14:30:52.066 [**] [1:2008146:2] ET MALWARE Mirai Botnet [**] [Classification: A Network Trojan was Detected] [Priority: 3] {ICMP} 103.216.220.11:62310 -> 10.0.0.1:53
+04/05/2026-14:30:52.066 [**] [1:2007901:2] ET EXPLOIT SMBv1 EternalBlue [**] [Classification: Attempted User Privilege Gain] [Priority: 3] {UDP} 194.165.16.72:15258 -> 10.0.0.1:110
+04/05/2026-14:30:52.066 [**] [1:2004819:2] ET DOS HTTP Flood [**] [Classification: Denial of Service Attack] [Priority: 1] {TCP} 45.155.205.225:43094 -> 10.0.0.1:23
+04/05/2026-14:30:52.067 [**] [1:2007278:2] ET EXPLOIT SMBv1 EternalBlue [**] [Classification: Attempted User Privilege Gain] [Priority: 3] {TCP} 172.16.0.200:64135 -> 10.0.0.1:995
+04/05/2026-14:30:52.067 [**] [1:2002909:2] ET BRUTE SSH Brute Force [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {ICMP} 45.33.32.156:57578 -> 10.0.0.1:3306
+04/05/2026-14:30:52.067 [**] [1:2006848:2] ET SCAN Nmap Scripting Engine [**] [Classification: Attempted Information Leak] [Priority: 3] {TCP} 185.220.101.5:42158 -> 10.0.0.1:53
+04/05/2026-14:30:52.067 [**] [1:2004174:2] ET BRUTE SSH Brute Force [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {UDP} 194.165.16.72:50057 -> 10.0.0.1:3389
+04/05/2026-14:30:52.067 [**] [1:2001699:2] ET EXPLOIT SMBv1 EternalBlue [**] [Classification: Attempted User Privilege Gain] [Priority: 2] {UDP} 194.165.16.72:29095 -> 10.0.0.1:993
+04/05/2026-14:30:52.067 [**] [1:2006112:2] ET EXPLOIT SMBv1 EternalBlue [**] [Classification: Attempted User Privilege Gain] [Priority: 2] {ICMP} 91.238.181.34:24528 -> 10.0.0.1:25
+04/05/2026-14:30:52.067 [**] [1:2001973:2] ET MALWARE Mirai Botnet [**] [Classification: A Network Trojan was Detected] [Priority: 3] {UDP} 103.216.220.11:39615 -> 10.0.0.1:3389
+04/05/2026-14:30:52.067 [**] [1:2001797:2] ET MALWARE Mirai Botnet [**] [Classification: A Network Trojan was Detected] [Priority: 2] {UDP} 103.216.220.11:34816 -> 10.0.0.1:135
+04/05/2026-14:30:52.067 [**] [1:2003919:2] ET MALWARE Mirai Botnet [**] [Classification: A Network Trojan was Detected] [Priority: 1] {UDP} 103.216.220.11:1479 -> 10.0.0.1:445
+04/05/2026-14:30:52.067 [**] [1:2008829:2] ET MALWARE Mirai Botnet [**] [Classification: A Network Trojan was Detected] [Priority: 1] {ICMP} 10.0.0.55:13267 -> 10.0.0.1:53
+04/05/2026-14:30:52.067 [**] [1:2002651:2] ET SCAN Nmap Scripting Engine [**] [Classification: Attempted Information Leak] [Priority: 1] {ICMP} 45.33.32.156:4522 -> 10.0.0.1:22
+04/05/2026-14:30:52.067 [**] [1:2004136:2] ET DOS HTTP Flood [**] [Classification: Denial of Service Attack] [Priority: 2] {UDP} 89.248.167.131:28629 -> 10.0.0.1:135
+04/05/2026-14:30:52.067 [**] [1:2007010:2] ET DOS HTTP Flood [**] [Classification: Denial of Service Attack] [Priority: 2] {TCP} 45.155.205.225:55937 -> 10.0.0.1:139
+04/05/2026-14:30:52.067 [**] [1:2006677:2] ET EXPLOIT SMBv1 EternalBlue [**] [Classification: Attempted User Privilege Gain] [Priority: 3] {UDP} 10.0.0.55:52278 -> 10.0.0.1:1433
+04/05/2026-14:30:52.067 [**] [1:2007845:2] ET INFO Tor Exit Node [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {TCP} 10.0.0.55:15226 -> 10.0.0.1:139
+04/05/2026-14:30:52.067 [**] [1:2009732:2] ET MALWARE Mirai Botnet [**] [Classification: A Network Trojan was Detected] [Priority: 2] {UDP} 103.216.220.11:39955 -> 10.0.0.1:143
+04/05/2026-14:30:52.067 [**] [1:2008171:2] ET EXPLOIT SMBv1 EternalBlue [**] [Classification: Attempted User Privilege Gain] [Priority: 1] {ICMP} 185.220.101.5:53932 -> 10.0.0.1:23
+04/05/2026-14:30:52.067 [**] [1:2004913:2] ET MALWARE Mirai Botnet [**] [Classification: A Network Trojan was Detected] [Priority: 2] {UDP} 10.0.0.55:52601 -> 10.0.0.1:3306
+04/05/2026-14:30:52.067 [**] [1:2008649:2] ET INFO Tor Exit Node [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {UDP} 194.165.16.72:15509 -> 10.0.0.1:8080
+04/05/2026-14:30:52.067 [**] [1:2001938:2] ET INFO Tor Exit Node [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {UDP} 103.216.220.11:44449 -> 10.0.0.1:445
+04/05/2026-14:30:52.067 [**] [1:2002465:2] ET EXPLOIT SMBv1 EternalBlue [**] [Classification: Attempted User Privilege Gain] [Priority: 2] {TCP} 89.248.167.131:65305 -> 10.0.0.1:445
+04/05/2026-14:30:52.067 [**] [1:2008977:2] ET BRUTE SSH Brute Force [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 3] {UDP} 89.248.167.131:16313 -> 10.0.0.1:139
+04/05/2026-14:30:52.067 [**] [1:2001028:2] ET INFO Tor Exit Node [**] [Classification: Potential Corporate Privacy Violation] [Priority: 3] {TCP} 185.220.101.5:31501 -> 10.0.0.1:135
+04/05/2026-14:30:52.067 [**] [1:2009120:2] ET EXPLOIT SMBv1 EternalBlue [**] [Classification: Attempted User Privilege Gain] [Priority: 3] {TCP} 91.238.181.34:27814 -> 10.0.0.1:139
+04/05/2026-14:30:52.067 [**] [1:2002320:2] ET DOS HTTP Flood [**] [Classification: Denial of Service Attack] [Priority: 1] {ICMP} 194.165.16.72:52601 -> 10.0.0.1:110
+04/05/2026-14:30:52.067 [**] [1:2004300:2] ET DOS HTTP Flood [**] [Classification: Denial of Service Attack] [Priority: 2] {UDP} 45.155.205.225:2030 -> 10.0.0.1:21
+04/05/2026-14:30:52.067 [**] [1:2002770:2] ET EXPLOIT SMBv1 EternalBlue [**] [Classification: Attempted User Privilege Gain] [Priority: 3] {TCP} 198.20.69.74:38286 -> 10.0.0.1:3389
+04/05/2026-14:30:52.067 [**] [1:2009311:2] ET DOS HTTP Flood [**] [Classification: Denial of Service Attack] [Priority: 2] {UDP} 185.220.101.5:28615 -> 10.0.0.1:23
+04/05/2026-14:30:52.067 [**] [1:2001864:2] ET MALWARE Mirai Botnet [**] [Classification: A Network Trojan was Detected] [Priority: 3] {UDP} 185.220.101.5:35274 -> 10.0.0.1:3389
+04/05/2026-14:30:52.067 [**] [1:2009859:2] ET INFO Tor Exit Node [**] [Classification: Potential Corporate Privacy Violation] [Priority: 2] {TCP} 185.156.73.55:59040 -> 10.0.0.1:5432
+04/05/2026-14:30:52.067 [**] [1:2004293:2] ET EXPLOIT SMBv1 EternalBlue [**] [Classification: Attempted User Privilege Gain] [Priority: 3] {ICMP} 45.155.205.225:13899 -> 10.0.0.1:443
+04/05/2026-14:30:52.067 [**] [1:2004011:2] ET MALWARE Mirai Botnet [**] [Classification: A Network Trojan was Detected] [Priority: 2] {TCP} 185.156.73.55:61179 -> 10.0.0.1:143
+04/05/2026-14:30:52.067 [**] [1:2001782:2] ET SCAN Nmap Scripting Engine [**] [Classification: Attempted Information Leak] [Priority: 1] {TCP} 89.248.167.131:48214 -> 10.0.0.1:3389
+04/05/2026-14:30:52.067 [**] [1:2007004:2] ET DOS HTTP Flood [**] [Classification: Denial of Service Attack] [Priority: 1] {UDP} 172.16.0.200:20513 -> 10.0.0.1:110
+04/05/2026-14:30:52.067 [**] [1:2005589:2] ET DOS HTTP Flood [**] [Classification: Denial of Service Attack] [Priority: 3] {UDP} 45.33.32.156:44023 -> 10.0.0.1:1433
+04/05/2026-14:30:52.067 [**] [1:2009799:2] ET MALWARE Mirai Botnet [**] [Classification: A Network Trojan was Detected] [Priority: 1] {TCP} 198.20.69.74:54842 -> 10.0.0.1:5432
+04/05/2026-14:30:52.067 [**] [1:2004440:2] ET INFO Tor Exit Node [**] [Classification: Potential Corporate Privacy Violation] [Priority: 3] {TCP} 198.20.69.74:5556 -> 10.0.0.1:445
+04/05/2026-14:30:52.067 [**] [1:2005631:2] ET EXPLOIT SMBv1 EternalBlue [**] [Classification: Attempted User Privilege Gain] [Priority: 3] {ICMP} 89.248.167.131:19896 -> 10.0.0.1:445
+04/05/2026-14:30:52.067 [**] [1:2008618:2] ET SCAN Nmap Scripting Engine [**] [Classification: Attempted Information Leak] [Priority: 2] {UDP} 45.155.205.225:59524 -> 10.0.0.1:1521
+04/05/2026-14:30:52.067 [**] [1:2001173:2] ET BRUTE SSH Brute Force [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 3] {TCP} 89.248.167.131:38569 -> 10.0.0.1:995
+04/05/2026-14:30:52.067 [**] [1:2009460:2] ET BRUTE SSH Brute Force [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 3] {TCP} 198.20.69.74:19091 -> 10.0.0.1:80
+04/05/2026-14:30:52.067 [**] [1:2004540:2] ET EXPLOIT SMBv1 EternalBlue [**] [Classification: Attempted User Privilege Gain] [Priority: 2] {TCP} 45.155.205.225:27653 -> 10.0.0.1:80
+04/05/2026-14:30:52.067 [**] [1:2002285:2] ET BRUTE SSH Brute Force [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {ICMP} 198.20.69.74:32150 -> 10.0.0.1:53
+04/05/2026-14:30:52.067 [**] [1:2001909:2] ET SCAN Nmap Scripting Engine [**] [Classification: Attempted Information Leak] [Priority: 3] {ICMP} 103.216.220.11:40815 -> 10.0.0.1:5432
+04/05/2026-14:30:52.067 [**] [1:2009288:2] ET MALWARE Mirai Botnet [**] [Classification: A Network Trojan was Detected] [Priority: 3] {UDP} 185.220.101.5:11013 -> 10.0.0.1:3306
+04/05/2026-14:30:52.067 [**] [1:2008635:2] ET INFO Tor Exit Node [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {TCP} 185.156.73.55:40665 -> 10.0.0.1:139
+04/05/2026-14:30:52.068 [**] [1:2008343:2] ET EXPLOIT SMBv1 EternalBlue [**] [Classification: Attempted User Privilege Gain] [Priority: 3] {ICMP} 91.238.181.34:11066 -> 10.0.0.1:53
+04/05/2026-14:30:52.068 [**] [1:2002949:2] ET EXPLOIT SMBv1 EternalBlue [**] [Classification: Attempted User Privilege Gain] [Priority: 1] {UDP} 185.156.73.55:27177 -> 10.0.0.1:53
+04/05/2026-14:30:52.068 [**] [1:2005518:2] ET SCAN Nmap Scripting Engine [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 10.0.0.55:53155 -> 10.0.0.1:143
+04/05/2026-14:30:52.068 [**] [1:2004549:2] ET EXPLOIT SMBv1 EternalBlue [**] [Classification: Attempted User Privilege Gain] [Priority: 2] {TCP} 45.33.32.156:58686 -> 10.0.0.1:110
+04/05/2026-14:30:52.068 [**] [1:2009045:2] ET SCAN Nmap Scripting Engine [**] [Classification: Attempted Information Leak] [Priority: 3] {TCP} 45.155.205.225:30441 -> 10.0.0.1:25
+04/05/2026-14:30:52.068 [**] [1:2009365:2] ET EXPLOIT SMBv1 EternalBlue [**] [Classification: Attempted User Privilege Gain] [Priority: 1] {TCP} 185.156.73.55:57108 -> 10.0.0.1:5432
+04/05/2026-14:30:52.068 [**] [1:2006323:2] ET BRUTE SSH Brute Force [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 10.0.0.55:7450 -> 10.0.0.1:143
+04/05/2026-14:30:52.068 [**] [1:2002834:2] ET MALWARE Mirai Botnet [**] [Classification: A Network Trojan was Detected] [Priority: 3] {ICMP} 185.156.73.55:41295 -> 10.0.0.1:53
+04/05/2026-14:30:52.068 [**] [1:2008175:2] ET MALWARE Mirai Botnet [**] [Classification: A Network Trojan was Detected] [Priority: 1] {TCP} 172.16.0.200:40965 -> 10.0.0.1:1433
+04/05/2026-14:30:52.068 [**] [1:2002356:2] ET SCAN Nmap Scripting Engine [**] [Classification: Attempted Information Leak] [Priority: 3] {UDP} 172.16.0.200:28568 -> 10.0.0.1:80
+04/05/2026-14:30:52.068 [**] [1:2007557:2] ET MALWARE Mirai Botnet [**] [Classification: A Network Trojan was Detected] [Priority: 2] {UDP} 89.248.167.131:4290 -> 10.0.0.1:995
+04/05/2026-14:30:52.068 [**] [1:2005810:2] ET SCAN Nmap Scripting Engine [**] [Classification: Attempted Information Leak] [Priority: 2] {UDP} 185.220.101.5:3393 -> 10.0.0.1:1433
+04/05/2026-14:30:52.068 [**] [1:2009328:2] ET SCAN Nmap Scripting Engine [**] [Classification: Attempted Information Leak] [Priority: 3] {TCP} 185.156.73.55:19719 -> 10.0.0.1:3306
+04/05/2026-14:30:52.068 [**] [1:2004926:2] ET SCAN Nmap Scripting Engine [**] [Classification: Attempted Information Leak] [Priority: 2] {ICMP} 45.33.32.156:34740 -> 10.0.0.1:22
+04/05/2026-14:30:52.068 [**] [1:2007512:2] ET INFO Tor Exit Node [**] [Classification: Potential Corporate Privacy Violation] [Priority: 2] {ICMP} 198.20.69.74:44119 -> 10.0.0.1:143
+04/05/2026-14:30:52.068 [**] [1:2005135:2] ET DOS HTTP Flood [**] [Classification: Denial of Service Attack] [Priority: 3] {UDP} 192.168.1.100:4282 -> 10.0.0.1:25
+04/05/2026-14:30:52.068 [**] [1:2006510:2] ET DOS HTTP Flood [**] [Classification: Denial of Service Attack] [Priority: 3] {TCP} 45.33.32.156:4991 -> 10.0.0.1:135
+04/05/2026-14:30:52.068 [**] [1:2005488:2] ET SCAN Nmap Scripting Engine [**] [Classification: Attempted Information Leak] [Priority: 3] {ICMP} 192.168.1.100:10052 -> 10.0.0.1:993
+04/05/2026-14:30:52.068 [**] [1:2008942:2] ET INFO Tor Exit Node [**] [Classification: Potential Corporate Privacy Violation] [Priority: 2] {ICMP} 194.165.16.72:23810 -> 10.0.0.1:3306
+04/05/2026-14:30:52.068 [**] [1:2009540:2] ET SCAN Nmap Scripting Engine [**] [Classification: Attempted Information Leak] [Priority: 2] {ICMP} 192.168.1.100:29940 -> 10.0.0.1:143
+04/05/2026-14:30:52.068 [**] [1:2001167:2] ET SCAN Nmap Scripting Engine [**] [Classification: Attempted Information Leak] [Priority: 3] {UDP} 45.155.205.225:2757 -> 10.0.0.1:139
+04/05/2026-14:30:52.068 [**] [1:2009180:2] ET SCAN Nmap Scripting Engine [**] [Classification: Attempted Information Leak] [Priority: 1] {ICMP} 172.16.0.200:55370 -> 10.0.0.1:8080
+04/05/2026-14:30:52.068 [**] [1:2008921:2] ET BRUTE SSH Brute Force [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {ICMP} 192.168.1.100:40307 -> 10.0.0.1:1433
+04/05/2026-14:30:52.068 [**] [1:2005038:2] ET BRUTE SSH Brute Force [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 2] {TCP} 89.248.167.131:58660 -> 10.0.0.1:143
+04/05/2026-14:30:52.068 [**] [1:2002869:2] ET INFO Tor Exit Node [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {TCP} 103.216.220.11:21712 -> 10.0.0.1:1433
+04/05/2026-14:30:52.068 [**] [1:2001734:2] ET BRUTE SSH Brute Force [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 2] {UDP} 194.165.16.72:26250 -> 10.0.0.1:445
+04/05/2026-14:30:52.068 [**] [1:2009804:2] ET SCAN Nmap Scripting Engine [**] [Classification: Attempted Information Leak] [Priority: 1] {ICMP} 91.238.181.34:37054 -> 10.0.0.1:1521
+04/05/2026-14:30:52.068 [**] [1:2001586:2] ET BRUTE SSH Brute Force [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 2] {UDP} 10.0.0.55:17011 -> 10.0.0.1:445
+04/05/2026-14:30:52.068 [**] [1:2004610:2] ET DOS HTTP Flood [**] [Classification: Denial of Service Attack] [Priority: 3] {ICMP} 89.248.167.131:30531 -> 10.0.0.1:443
+04/05/2026-14:30:52.068 [**] [1:2008436:2] ET BRUTE SSH Brute Force [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 3] {ICMP} 45.33.32.156:9160 -> 10.0.0.1:143
+04/05/2026-14:30:52.068 [**] [1:2008353:2] ET BRUTE SSH Brute Force [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {ICMP} 103.216.220.11:57510 -> 10.0.0.1:995
+04/05/2026-14:30:52.068 [**] [1:2004925:2] ET MALWARE Mirai Botnet [**] [Classification: A Network Trojan was Detected] [Priority: 3] {TCP} 91.238.181.34:36963 -> 10.0.0.1:23
+04/05/2026-14:30:52.068 [**] [1:2007835:2] ET MALWARE Mirai Botnet [**] [Classification: A Network Trojan was Detected] [Priority: 2] {TCP} 10.0.0.55:52430 -> 10.0.0.1:23
+04/05/2026-14:30:52.068 [**] [1:2009105:2] ET INFO Tor Exit Node [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {ICMP} 91.238.181.34:26955 -> 10.0.0.1:139
+04/05/2026-14:30:52.069 [**] [1:2001975:2] ET DOS HTTP Flood [**] [Classification: Denial of Service Attack] [Priority: 1] {TCP} 10.0.0.55:45331 -> 10.0.0.1:445
+04/05/2026-14:30:52.069 [**] [1:2007033:2] ET MALWARE Mirai Botnet [**] [Classification: A Network Trojan was Detected] [Priority: 1] {UDP} 185.156.73.55:41618 -> 10.0.0.1:23
+04/05/2026-14:30:52.069 [**] [1:2001416:2] ET INFO Tor Exit Node [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {ICMP} 45.155.205.225:47473 -> 10.0.0.1:993
+04/05/2026-14:30:52.069 [**] [1:2009621:2] ET EXPLOIT SMBv1 EternalBlue [**] [Classification: Attempted User Privilege Gain] [Priority: 2] {UDP} 89.248.167.131:30120 -> 10.0.0.1:443
+04/05/2026-14:30:52.069 [**] [1:2004911:2] ET BRUTE SSH Brute Force [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {ICMP} 89.248.167.131:15511 -> 10.0.0.1:3306
+04/05/2026-14:30:52.069 [**] [1:2001085:2] ET DOS HTTP Flood [**] [Classification: Denial of Service Attack] [Priority: 2] {TCP} 89.248.167.131:4105 -> 10.0.0.1:25
+04/05/2026-14:30:52.069 [**] [1:2001728:2] ET MALWARE Mirai Botnet [**] [Classification: A Network Trojan was Detected] [Priority: 1] {ICMP} 10.0.0.55:35199 -> 10.0.0.1:80
+04/05/2026-14:30:52.069 [**] [1:2008093:2] ET EXPLOIT SMBv1 EternalBlue [**] [Classification: Attempted User Privilege Gain] [Priority: 3] {ICMP} 103.216.220.11:30238 -> 10.0.0.1:139
+04/05/2026-14:30:52.069 [**] [1:2004656:2] ET MALWARE Mirai Botnet [**] [Classification: A Network Trojan was Detected] [Priority: 2] {UDP} 185.220.101.5:23634 -> 10.0.0.1:21
+04/05/2026-14:30:52.069 [**] [1:2006860:2] ET EXPLOIT SMBv1 EternalBlue [**] [Classification: Attempted User Privilege Gain] [Priority: 1] {TCP} 45.155.205.225:57650 -> 10.0.0.1:53
+04/05/2026-14:30:52.069 [**] [1:2004895:2] ET BRUTE SSH Brute Force [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 3] {ICMP} 185.220.101.5:46871 -> 10.0.0.1:143
+04/05/2026-14:30:52.069 [**] [1:2004536:2] ET BRUTE SSH Brute Force [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {ICMP} 185.156.73.55:25388 -> 10.0.0.1:21
+04/05/2026-14:30:52.069 [**] [1:2009110:2] ET DOS HTTP Flood [**] [Classification: Denial of Service Attack] [Priority: 2] {UDP} 185.156.73.55:15886 -> 10.0.0.1:5432
+04/05/2026-14:30:52.069 [**] [1:2007472:2] ET SCAN Nmap Scripting Engine [**] [Classification: Attempted Information Leak] [Priority: 2] {ICMP} 89.248.167.131:39455 -> 10.0.0.1:5432
+04/05/2026-14:30:52.069 [**] [1:2002234:2] ET DOS HTTP Flood [**] [Classification: Denial of Service Attack] [Priority: 1] {TCP} 172.16.0.200:37562 -> 10.0.0.1:25
+04/05/2026-14:30:52.069 [**] [1:2006488:2] ET SCAN Nmap Scripting Engine [**] [Classification: Attempted Information Leak] [Priority: 2] {ICMP} 10.0.0.55:51052 -> 10.0.0.1:995
+04/05/2026-14:30:52.069 [**] [1:2006167:2] ET SCAN Nmap Scripting Engine [**] [Classification: Attempted Information Leak] [Priority: 1] {TCP} 192.168.1.100:19303 -> 10.0.0.1:143
+04/05/2026-14:30:52.069 [**] [1:2001146:2] ET INFO Tor Exit Node [**] [Classification: Potential Corporate Privacy Violation] [Priority: 2] {ICMP} 185.156.73.55:8717 -> 10.0.0.1:445
+04/05/2026-14:30:52.069 [**] [1:2009137:2] ET SCAN Nmap Scripting Engine [**] [Classification: Attempted Information Leak] [Priority: 2] {UDP} 45.155.205.225:57296 -> 10.0.0.1:53
+04/05/2026-14:30:52.069 [**] [1:2006188:2] ET BRUTE SSH Brute Force [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 2] {ICMP} 10.0.0.55:22066 -> 10.0.0.1:3306
+04/05/2026-14:30:52.069 [**] [1:2005440:2] ET BRUTE SSH Brute Force [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 2] {ICMP} 45.155.205.225:6795 -> 10.0.0.1:5432
+04/05/2026-14:30:52.069 [**] [1:2008903:2] ET BRUTE SSH Brute Force [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 2] {UDP} 89.248.167.131:42340 -> 10.0.0.1:80
+04/05/2026-14:30:52.069 [**] [1:2008100:2] ET MALWARE Mirai Botnet [**] [Classification: A Network Trojan was Detected] [Priority: 3] {UDP} 194.165.16.72:32203 -> 10.0.0.1:445
+04/05/2026-14:30:52.069 [**] [1:2004802:2] ET DOS HTTP Flood [**] [Classification: Denial of Service Attack] [Priority: 2] {ICMP} 10.0.0.55:52657 -> 10.0.0.1:1521
+04/05/2026-14:30:52.069 [**] [1:2001805:2] ET DOS HTTP Flood [**] [Classification: Denial of Service Attack] [Priority: 1] {ICMP} 198.20.69.74:35100 -> 10.0.0.1:80
+04/05/2026-14:30:52.069 [**] [1:2006522:2] ET DOS HTTP Flood [**] [Classification: Denial of Service Attack] [Priority: 1] {TCP} 185.156.73.55:52345 -> 10.0.0.1:143
+04/05/2026-14:30:52.069 [**] [1:2002684:2] ET DOS HTTP Flood [**] [Classification: Denial of Service Attack] [Priority: 2] {TCP} 103.216.220.11:59006 -> 10.0.0.1:1433
+04/05/2026-14:30:52.069 [**] [1:2003191:2] ET DOS HTTP Flood [**] [Classification: Denial of Service Attack] [Priority: 1] {ICMP} 198.20.69.74:32533 -> 10.0.0.1:23
+04/05/2026-14:30:52.069 [**] [1:2009678:2] ET EXPLOIT SMBv1 EternalBlue [**] [Classification: Attempted User Privilege Gain] [Priority: 3] {UDP} 91.238.181.34:56348 -> 10.0.0.1:5432
+04/05/2026-14:30:52.069 [**] [1:2005372:2] ET EXPLOIT SMBv1 EternalBlue [**] [Classification: Attempted User Privilege Gain] [Priority: 2] {TCP} 103.216.220.11:32315 -> 10.0.0.1:53
+04/05/2026-14:30:52.069 [**] [1:2008790:2] ET MALWARE Mirai Botnet [**] [Classification: A Network Trojan was Detected] [Priority: 1] {TCP} 103.216.220.11:54402 -> 10.0.0.1:22
+04/05/2026-14:30:52.069 [**] [1:2001908:2] ET BRUTE SSH Brute Force [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 2] {UDP} 45.33.32.156:23572 -> 10.0.0.1:3389
+04/05/2026-14:30:52.069 [**] [1:2008681:2] ET MALWARE Mirai Botnet [**] [Classification: A Network Trojan was Detected] [Priority: 1] {UDP} 45.155.205.225:36076 -> 10.0.0.1:445
+04/05/2026-14:30:52.069 [**] [1:2004764:2] ET BRUTE SSH Brute Force [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 2] {TCP} 10.0.0.55:21316 -> 10.0.0.1:993
+04/05/2026-14:30:52.070 [**] [1:2003508:2] ET DOS HTTP Flood [**] [Classification: Denial of Service Attack] [Priority: 1] {TCP} 192.168.1.100:46247 -> 10.0.0.1:995
+04/05/2026-14:30:52.070 [**] [1:2002808:2] ET INFO Tor Exit Node [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {ICMP} 45.33.32.156:22778 -> 10.0.0.1:8080
+04/05/2026-14:30:52.070 [**] [1:2009374:2] ET SCAN Nmap Scripting Engine [**] [Classification: Attempted Information Leak] [Priority: 2] {UDP} 198.20.69.74:24727 -> 10.0.0.1:1521
+04/05/2026-14:30:52.070 [**] [1:2001347:2] ET MALWARE Mirai Botnet [**] [Classification: A Network Trojan was Detected] [Priority: 1] {UDP} 103.216.220.11:15188 -> 10.0.0.1:1521
+04/05/2026-14:30:52.070 [**] [1:2004193:2] ET MALWARE Mirai Botnet [**] [Classification: A Network Trojan was Detected] [Priority: 3] {UDP} 185.156.73.55:25160 -> 10.0.0.1:23
+04/05/2026-14:30:52.070 [**] [1:2006212:2] ET BRUTE SSH Brute Force [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {UDP} 185.220.101.5:22089 -> 10.0.0.1:135
+04/05/2026-14:30:52.070 [**] [1:2001415:2] ET INFO Tor Exit Node [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {TCP} 103.216.220.11:52973 -> 10.0.0.1:80
+04/05/2026-14:30:52.070 [**] [1:2001782:2] ET EXPLOIT SMBv1 EternalBlue [**] [Classification: Attempted User Privilege Gain] [Priority: 2] {ICMP} 45.33.32.156:58780 -> 10.0.0.1:22
+04/05/2026-14:30:52.070 [**] [1:2007518:2] ET BRUTE SSH Brute Force [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 3] {UDP} 103.216.220.11:55112 -> 10.0.0.1:21
+04/05/2026-14:30:52.070 [**] [1:2001263:2] ET SCAN Nmap Scripting Engine [**] [Classification: Attempted Information Leak] [Priority: 2] {ICMP} 192.168.1.100:6561 -> 10.0.0.1:80
+04/05/2026-14:30:52.070 [**] [1:2008500:2] ET SCAN Nmap Scripting Engine [**] [Classification: Attempted Information Leak] [Priority: 1] {TCP} 185.156.73.55:64595 -> 10.0.0.1:21
+04/05/2026-14:30:52.070 [**] [1:2002630:2] ET MALWARE Mirai Botnet [**] [Classification: A Network Trojan was Detected] [Priority: 3] {ICMP} 91.238.181.34:9463 -> 10.0.0.1:135
+04/05/2026-14:30:52.070 [**] [1:2008103:2] ET SCAN Nmap Scripting Engine [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 91.238.181.34:56350 -> 10.0.0.1:135
+04/05/2026-14:30:52.070 [**] [1:2005596:2] ET BRUTE SSH Brute Force [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 2] {UDP} 45.155.205.225:12158 -> 10.0.0.1:1433
+04/05/2026-14:30:52.070 [**] [1:2004810:2] ET DOS HTTP Flood [**] [Classification: Denial of Service Attack] [Priority: 2] {TCP} 103.216.220.11:63218 -> 10.0.0.1:443
+04/05/2026-14:30:52.070 [**] [1:2002983:2] ET MALWARE Mirai Botnet [**] [Classification: A Network Trojan was Detected] [Priority: 2] {TCP} 91.238.181.34:14772 -> 10.0.0.1:53
+04/05/2026-14:30:52.070 [**] [1:2002950:2] ET DOS HTTP Flood [**] [Classification: Denial of Service Attack] [Priority: 3] {TCP} 103.216.220.11:43817 -> 10.0.0.1:23
+04/05/2026-14:30:52.070 [**] [1:2008760:2] ET SCAN Nmap Scripting Engine [**] [Classification: Attempted Information Leak] [Priority: 3] {TCP} 45.155.205.225:27594 -> 10.0.0.1:445
+04/05/2026-14:30:52.070 [**] [1:2001939:2] ET EXPLOIT SMBv1 EternalBlue [**] [Classification: Attempted User Privilege Gain] [Priority: 2] {UDP} 45.155.205.225:56416 -> 10.0.0.1:1521
+04/05/2026-14:30:52.070 [**] [1:2002462:2] ET SCAN Nmap Scripting Engine [**] [Classification: Attempted Information Leak] [Priority: 1] {TCP} 45.155.205.225:41296 -> 10.0.0.1:110
+04/05/2026-14:30:52.070 [**] [1:2009330:2] ET MALWARE Mirai Botnet [**] [Classification: A Network Trojan was Detected] [Priority: 2] {TCP} 192.168.1.100:25461 -> 10.0.0.1:139
+04/05/2026-14:30:52.070 [**] [1:2007811:2] ET MALWARE Mirai Botnet [**] [Classification: A Network Trojan was Detected] [Priority: 3] {UDP} 194.165.16.72:56776 -> 10.0.0.1:22
+04/05/2026-14:30:52.070 [**] [1:2003469:2] ET MALWARE Mirai Botnet [**] [Classification: A Network Trojan was Detected] [Priority: 2] {TCP} 91.238.181.34:53168 -> 10.0.0.1:443
+04/05/2026-14:30:52.070 [**] [1:2006003:2] ET INFO Tor Exit Node [**] [Classification: Potential Corporate Privacy Violation] [Priority: 2] {UDP} 91.238.181.34:4970 -> 10.0.0.1:443
+04/05/2026-14:30:52.070 [**] [1:2002681:2] ET DOS HTTP Flood [**] [Classification: Denial of Service Attack] [Priority: 1] {UDP} 185.220.101.5:24212 -> 10.0.0.1:110
+04/05/2026-14:30:52.070 [**] [1:2002144:2] ET BRUTE SSH Brute Force [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 2] {TCP} 194.165.16.72:60480 -> 10.0.0.1:21
+04/05/2026-14:30:52.070 [**] [1:2005221:2] ET EXPLOIT SMBv1 EternalBlue [**] [Classification: Attempted User Privilege Gain] [Priority: 3] {UDP} 172.16.0.200:31331 -> 10.0.0.1:143
+04/05/2026-14:30:52.070 [**] [1:2003888:2] ET SCAN Nmap Scripting Engine [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 185.220.101.5:62841 -> 10.0.0.1:3389
+04/05/2026-14:30:52.070 [**] [1:2003495:2] ET DOS HTTP Flood [**] [Classification: Denial of Service Attack] [Priority: 3] {ICMP} 194.165.16.72:41468 -> 10.0.0.1:1521
+04/05/2026-14:30:52.070 [**] [1:2002032:2] ET BRUTE SSH Brute Force [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 2] {TCP} 194.165.16.72:2460 -> 10.0.0.1:995
+04/05/2026-14:30:52.070 [**] [1:2001085:2] ET EXPLOIT SMBv1 EternalBlue [**] [Classification: Attempted User Privilege Gain] [Priority: 2] {ICMP} 185.220.101.5:51777 -> 10.0.0.1:53
+04/05/2026-14:30:52.070 [**] [1:2006079:2] ET SCAN Nmap Scripting Engine [**] [Classification: Attempted Information Leak] [Priority: 3] {ICMP} 45.155.205.225:47706 -> 10.0.0.1:993
+04/05/2026-14:30:52.070 [**] [1:2003881:2] ET MALWARE Mirai Botnet [**] [Classification: A Network Trojan was Detected] [Priority: 2] {TCP} 192.168.1.100:45426 -> 10.0.0.1:3306
+04/05/2026-14:30:52.070 [**] [1:2004252:2] ET EXPLOIT SMBv1 EternalBlue [**] [Classification: Attempted User Privilege Gain] [Priority: 2] {TCP} 185.220.101.5:51793 -> 10.0.0.1:8080
+04/05/2026-14:30:52.070 [**] [1:2003049:2] ET SCAN Nmap Scripting Engine [**] [Classification: Attempted Information Leak] [Priority: 3] {ICMP} 10.0.0.55:28409 -> 10.0.0.1:995
+04/05/2026-14:30:52.070 [**] [1:2003218:2] ET EXPLOIT SMBv1 EternalBlue [**] [Classification: Attempted User Privilege Gain] [Priority: 3] {UDP} 194.165.16.72:4395 -> 10.0.0.1:143
+04/05/2026-14:30:52.070 [**] [1:2004520:2] ET DOS HTTP Flood [**] [Classification: Denial of Service Attack] [Priority: 3] {TCP} 172.16.0.200:51048 -> 10.0.0.1:993
+04/05/2026-14:30:52.070 [**] [1:2003247:2] ET MALWARE Mirai Botnet [**] [Classification: A Network Trojan was Detected] [Priority: 1] {UDP} 45.33.32.156:53073 -> 10.0.0.1:3306
+04/05/2026-14:30:52.070 [**] [1:2001795:2] ET MALWARE Mirai Botnet [**] [Classification: A Network Trojan was Detected] [Priority: 3] {UDP} 103.216.220.11:4667 -> 10.0.0.1:23
+04/05/2026-14:30:52.070 [**] [1:2009503:2] ET BRUTE SSH Brute Force [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 3] {UDP} 91.238.181.34:18245 -> 10.0.0.1:25
+04/05/2026-14:30:52.070 [**] [1:2009772:2] ET SCAN Nmap Scripting Engine [**] [Classification: Attempted Information Leak] [Priority: 1] {ICMP} 89.248.167.131:13441 -> 10.0.0.1:80
+04/05/2026-14:30:52.070 [**] [1:2004761:2] ET BRUTE SSH Brute Force [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 3] {TCP} 185.156.73.55:50984 -> 10.0.0.1:23
+04/05/2026-14:30:52.070 [**] [1:2003606:2] ET EXPLOIT SMBv1 EternalBlue [**] [Classification: Attempted User Privilege Gain] [Priority: 1] {ICMP} 45.33.32.156:2765 -> 10.0.0.1:993
+04/05/2026-14:30:52.070 [**] [1:2005903:2] ET EXPLOIT SMBv1 EternalBlue [**] [Classification: Attempted User Privilege Gain] [Priority: 2] {UDP} 198.20.69.74:41347 -> 10.0.0.1:21
+04/05/2026-14:30:52.070 [**] [1:2006846:2] ET SCAN Nmap Scripting Engine [**] [Classification: Attempted Information Leak] [Priority: 3] {UDP} 45.33.32.156:51199 -> 10.0.0.1:25
+04/05/2026-14:30:52.070 [**] [1:2001690:2] ET MALWARE Mirai Botnet [**] [Classification: A Network Trojan was Detected] [Priority: 2] {ICMP} 172.16.0.200:2032 -> 10.0.0.1:143
+04/05/2026-14:30:52.070 [**] [1:2008137:2] ET BRUTE SSH Brute Force [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 3] {ICMP} 198.20.69.74:1558 -> 10.0.0.1:143
+04/05/2026-14:30:52.071 [**] [1:2002997:2] ET MALWARE Mirai Botnet [**] [Classification: A Network Trojan was Detected] [Priority: 1] {UDP} 89.248.167.131:17447 -> 10.0.0.1:993
+04/05/2026-14:30:52.071 [**] [1:2004855:2] ET BRUTE SSH Brute Force [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 3] {TCP} 10.0.0.55:8060 -> 10.0.0.1:21
+04/05/2026-14:30:52.071 [**] [1:2003219:2] ET EXPLOIT SMBv1 EternalBlue [**] [Classification: Attempted User Privilege Gain] [Priority: 2] {ICMP} 198.20.69.74:23511 -> 10.0.0.1:139
+04/05/2026-14:30:52.071 [**] [1:2002719:2] ET MALWARE Mirai Botnet [**] [Classification: A Network Trojan was Detected] [Priority: 2] {ICMP} 185.220.101.5:36544 -> 10.0.0.1:139
+04/05/2026-14:30:52.071 [**] [1:2008632:2] ET BRUTE SSH Brute Force [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 2] {ICMP} 172.16.0.200:56434 -> 10.0.0.1:445
+04/05/2026-14:30:52.071 [**] [1:2002789:2] ET MALWARE Mirai Botnet [**] [Classification: A Network Trojan was Detected] [Priority: 1] {TCP} 185.156.73.55:12507 -> 10.0.0.1:23
+04/05/2026-14:30:52.071 [**] [1:2004736:2] ET SCAN Nmap Scripting Engine [**] [Classification: Attempted Information Leak] [Priority: 2] {UDP} 89.248.167.131:27650 -> 10.0.0.1:5432
+04/05/2026-14:30:52.071 [**] [1:2002746:2] ET EXPLOIT SMBv1 EternalBlue [**] [Classification: Attempted User Privilege Gain] [Priority: 3] {UDP} 89.248.167.131:10271 -> 10.0.0.1:25
+04/05/2026-14:30:52.071 [**] [1:2007260:2] ET SCAN Nmap Scripting Engine [**] [Classification: Attempted Information Leak] [Priority: 1] {TCP} 91.238.181.34:55370 -> 10.0.0.1:110
+04/05/2026-14:30:52.071 [**] [1:2001303:2] ET INFO Tor Exit Node [**] [Classification: Potential Corporate Privacy Violation] [Priority: 2] {ICMP} 172.16.0.200:55351 -> 10.0.0.1:80
+04/05/2026-14:30:52.071 [**] [1:2002975:2] ET DOS HTTP Flood [**] [Classification: Denial of Service Attack] [Priority: 1] {TCP} 89.248.167.131:26909 -> 10.0.0.1:110
+04/05/2026-14:30:52.071 [**] [1:2008347:2] ET BRUTE SSH Brute Force [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 3] {UDP} 185.220.101.5:59806 -> 10.0.0.1:110
+04/05/2026-14:30:52.071 [**] [1:2007487:2] ET EXPLOIT SMBv1 EternalBlue [**] [Classification: Attempted User Privilege Gain] [Priority: 1] {TCP} 45.33.32.156:36542 -> 10.0.0.1:1521
+04/05/2026-14:30:52.071 [**] [1:2002692:2] ET BRUTE SSH Brute Force [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 3] {TCP} 103.216.220.11:5353 -> 10.0.0.1:53
+04/05/2026-14:30:52.071 [**] [1:2001504:2] ET DOS HTTP Flood [**] [Classification: Denial of Service Attack] [Priority: 2] {TCP} 172.16.0.200:41482 -> 10.0.0.1:443
+04/05/2026-14:30:52.072 [**] [1:2001111:2] ET INFO Tor Exit Node [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {TCP} 198.20.69.74:23526 -> 10.0.0.1:8080
+04/05/2026-14:30:52.072 [**] [1:2002338:2] ET SCAN Nmap Scripting Engine [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 45.33.32.156:22514 -> 10.0.0.1:1521
+04/05/2026-14:30:52.072 [**] [1:2008744:2] ET MALWARE Mirai Botnet [**] [Classification: A Network Trojan was Detected] [Priority: 3] {TCP} 194.165.16.72:52492 -> 10.0.0.1:110
+04/05/2026-14:30:52.072 [**] [1:2002146:2] ET BRUTE SSH Brute Force [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 3] {UDP} 10.0.0.55:2347 -> 10.0.0.1:80
+04/05/2026-14:30:52.072 [**] [1:2006205:2] ET INFO Tor Exit Node [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {ICMP} 194.165.16.72:56849 -> 10.0.0.1:3306
+04/05/2026-14:30:52.072 [**] [1:2005598:2] ET EXPLOIT SMBv1 EternalBlue [**] [Classification: Attempted User Privilege Gain] [Priority: 2] {ICMP} 103.216.220.11:5189 -> 10.0.0.1:995
+04/05/2026-14:30:52.072 [**] [1:2008845:2] ET INFO Tor Exit Node [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {UDP} 194.165.16.72:59919 -> 10.0.0.1:8080
+04/05/2026-14:30:52.072 [**] [1:2003162:2] ET DOS HTTP Flood [**] [Classification: Denial of Service Attack] [Priority: 1] {UDP} 172.16.0.200:45669 -> 10.0.0.1:21
+04/05/2026-14:30:52.072 [**] [1:2002071:2] ET SCAN Nmap Scripting Engine [**] [Classification: Attempted Information Leak] [Priority: 2] {UDP} 198.20.69.74:33673 -> 10.0.0.1:25
+04/05/2026-14:30:52.072 [**] [1:2002462:2] ET INFO Tor Exit Node [**] [Classification: Potential Corporate Privacy Violation] [Priority: 3] {TCP} 45.155.205.225:8333 -> 10.0.0.1:110
+04/05/2026-14:30:52.072 [**] [1:2001027:2] ET EXPLOIT SMBv1 EternalBlue [**] [Classification: Attempted User Privilege Gain] [Priority: 1] {TCP} 45.155.205.225:21384 -> 10.0.0.1:135
+04/05/2026-14:30:52.072 [**] [1:2002607:2] ET SCAN Nmap Scripting Engine [**] [Classification: Attempted Information Leak] [Priority: 1] {UDP} 194.165.16.72:37349 -> 10.0.0.1:80
+04/05/2026-14:30:52.072 [**] [1:2007745:2] ET DOS HTTP Flood [**] [Classification: Denial of Service Attack] [Priority: 3] {UDP} 103.216.220.11:1433 -> 10.0.0.1:21
+04/05/2026-14:30:52.072 [**] [1:2007887:2] ET SCAN Nmap Scripting Engine [**] [Classification: Attempted Information Leak] [Priority: 1] {TCP} 45.33.32.156:42040 -> 10.0.0.1:110
+04/05/2026-14:30:52.072 [**] [1:2001608:2] ET MALWARE Mirai Botnet [**] [Classification: A Network Trojan was Detected] [Priority: 3] {TCP} 194.165.16.72:46732 -> 10.0.0.1:53
+04/05/2026-14:30:52.072 [**] [1:2007804:2] ET INFO Tor Exit Node [**] [Classification: Potential Corporate Privacy Violation] [Priority: 3] {TCP} 103.216.220.11:2082 -> 10.0.0.1:53
+04/05/2026-14:30:52.072 [**] [1:2006754:2] ET EXPLOIT SMBv1 EternalBlue [**] [Classification: Attempted User Privilege Gain] [Priority: 2] {UDP} 172.16.0.200:24400 -> 10.0.0.1:445
+04/05/2026-14:30:52.072 [**] [1:2002004:2] ET EXPLOIT SMBv1 EternalBlue [**] [Classification: Attempted User Privilege Gain] [Priority: 3] {TCP} 185.220.101.5:16785 -> 10.0.0.1:21
+04/05/2026-14:30:52.072 [**] [1:2004548:2] ET SCAN Nmap Scripting Engine [**] [Classification: Attempted Information Leak] [Priority: 3] {TCP} 194.165.16.72:5690 -> 10.0.0.1:3389
+04/05/2026-14:30:52.072 [**] [1:2003174:2] ET EXPLOIT SMBv1 EternalBlue [**] [Classification: Attempted User Privilege Gain] [Priority: 3] {UDP} 198.20.69.74:51657 -> 10.0.0.1:21

@@ -1,0 +1,40 @@
+# Honeypot Portátil - Métricas del sistema
+# Generado: 2026-04-05T14:30:52.415347Z
+
+# TYPE honeypot_attacks_total gauge
+honeypot_attacks_total{type="command_execution"} 143
+honeypot_attacks_total{type="brute_force"} 540
+honeypot_attacks_total{type="ssh_probe"} 120
+honeypot_attacks_total{type="unauthorized_access"} 135
+honeypot_attacks_total{type="exploit_attempt"} 142
+honeypot_attacks_total{type="malware_upload"} 193
+honeypot_attacks_total{type="service_probe"} 211
+honeypot_attacks_total{type="ids_alert"} 30
+honeypot_attacks_total{type="malware"} 38
+honeypot_attacks_total{type="port_scan"} 27
+honeypot_attacks_total{type="dos"} 27
+
+# TYPE honeypot_events_by_source gauge
+honeypot_events_by_source{source="cowrie"} 910
+honeypot_events_by_source{source="dionaea"} 520
+honeypot_events_by_source{source="suricata"} 176
+
+# TYPE honeypot_top_attacker_events gauge
+honeypot_top_attacker_events{ip="10.0.0.55"} 250
+honeypot_top_attacker_events{ip="194.165.16.72"} 243
+honeypot_top_attacker_events{ip="45.155.205.225"} 197
+honeypot_top_attacker_events{ip="172.16.0.200"} 119
+honeypot_top_attacker_events{ip="103.216.220.11"} 108
+
+# TYPE honeypot_alerts_total gauge
+honeypot_alerts_total{severity="HIGH"} 11
+honeypot_alerts_total{severity="CRITICAL"} 12
+
+# TYPE honeypot_total_events gauge
+honeypot_total_events 1606
+
+# TYPE honeypot_anomalies_detected gauge
+honeypot_anomalies_detected 182
+
+# TYPE honeypot_ml_avg_confidence gauge
+honeypot_ml_avg_confidence 0.7124
