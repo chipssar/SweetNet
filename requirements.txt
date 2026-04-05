@@ -1,5 +1,5 @@
 # ============================================================
-# HONEYPOT PORTÁTIL - Dependencias del proyecto
+# SweetNet - Dependencias del proyecto
 # Compatible con Python 3.8+ y Raspberry Pi OS (Debian/Ubuntu)
 # ============================================================
 
