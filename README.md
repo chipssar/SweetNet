@@ -40,7 +40,7 @@
 ## 2. Estructura del proyecto <a name="estructura"></a>
 
 ```
-honeypot-project/
+sweetnet/
 │
 ├── main.py                          # Orquestador principal
 ├── setup.sh                         # Script de instalación automática
@@ -86,7 +86,7 @@ honeypot-project/
 
 ```bash
 git clone https://github.com/chipssar/SweetNet.git
-cd honeypot-project
+cd SweetNet
 chmod +x setup.sh
 ./setup.sh
 ```
@@ -96,7 +96,7 @@ chmod +x setup.sh
 ```bash
 # 1. Clonar el proyecto
 git clone https://github.com/chipssar/SweetNet.git
-cd honeypot-project
+cd SweetNet
 
 # 2. Crear entorno virtual
 python3 -m venv .venv
